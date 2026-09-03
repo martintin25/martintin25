@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrandonDuv033/BrandonDuv033/main/header.png" alt="Brandon Guevara Header" width="100%" />
+
 </p>
 
 ---
@@ -7,8 +7,8 @@
 ### 📩 Contacto
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://linkedin.com/in/brandon-guevara-1966a83aa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:brandonduv007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="www.linkedin.com/in/martin-cruz-2403352b3"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mcrmunoz25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
 ---
